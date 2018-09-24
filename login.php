@@ -44,11 +44,11 @@ data-open="click" data-menu="vertical-menu-modern" data-col="1-column">
                 <div class="card-header border-0">
                   <div class="card-title text-center">
                     <div class="p-1">
-                      <img src="app-assets/images/logo/logo-dark.png" alt="branding logo">
+                      <img src="app-assets/images/logo/xoxo.png" alt="branding logo">
                     </div>
                   </div>
                   <h6 class="card-subtitle line-on-side text-muted text-center font-small-3 pt-2">
-                    <span>Easily Using</span>
+                    <span>Welcome Admin Shelongs</span>
                   </h6>
                 </div>
                 <div class="card-content">
@@ -57,34 +57,6 @@ data-open="click" data-menu="vertical-menu-modern" data-col="1-column">
                       <span class="la la-facebook"></span>
                       <span class="px-1">facebook</span>
                     </a>
-                    <a href="#" class="btn btn-social mb-1 mr-1 btn-outline-google">
-                      <span class="la la-google-plus font-medium-4"></span>
-                      <span class="px-1">google</span>
-                    </a>
-                  </div>
-                  <h6 class="card-subtitle line-on-side text-muted text-center font-small-3 pt-2">
-                    <span>Login with TuengNued</span>
-                  </h6>
-                </div>
-                <div class="card-content">
-                  <div class="card-body">
-                    <form class="form-horizontal form-simple" action="index.html" novalidate>
-                      <fieldset class="form-group position-relative has-icon-left mb-0">
-                        <input type="text" class="form-control form-control-lg input-lg" id="user-name" placeholder="Your Username"
-                        required>
-                        <div class="form-control-position">
-                          <i class="ft-user"></i>
-                        </div>
-                      </fieldset>
-                      <fieldset class="form-group position-relative has-icon-left">
-                        <input type="password" class="form-control form-control-lg input-lg" id="user-password"
-                        placeholder="Enter Password" required>
-                        <div class="form-control-position">
-                          <i class="la la-key"></i>
-                        </div>
-                      </fieldset>
-                      <button type="submit" class="btn btn-info btn-lg btn-block"><i class="ft-unlock"></i> Login</button>
-                    </form>
                   </div>
                 </div>
               </div>
