@@ -4,9 +4,9 @@
         <ul class="nav navbar-nav flex-row">
           <li class="nav-item mobile-menu d-md-none mr-auto"><a class="nav-link nav-menu-main menu-toggle hidden-xs" href="#"><i class="ft-menu font-large-1"></i></a></li>
           <li class="nav-item mr-auto">
-            <a class="navbar-brand" href="index.html">
-              <img class="brand-logo" alt="modern admin logo" src="app-assets/images/logo/logo.png">
-              <h3 class="brand-text">Shelongs</h3>
+            <a class="navbar-brand" href="#">
+<!--               <img class="brand-logo" alt="modern admin logo" src="app-assets/images/logo/xoxo.png"> -->
+              <h2 class="brand-text">Shelongs</h3>
             </a>
           </li>
           <li class="nav-item d-md-none">
@@ -44,6 +44,7 @@
   <div class="main-menu menu-fixed menu-dark menu-accordion menu-shadow" data-scroll-to-active="true">
     <div class="main-menu-content">
       <ul class="navigation navigation-main" id="main-menu-navigation" data-menu="menu-navigation">
+         <li class=" nav-item"><a href="dashboard.php"><i class="la la-dashboard"></i><span class="menu-title">หน้าควบคุม</span></a></li>
         <li class=" nav-item"><a href="websetiing.php"><i class="la la-home"></i><span class="menu-title">ตั้งค่าเว็บไซต์</span></a></li>
 
         <li class=" nav-item"><a href="#"><i class="la la-plus-circle"></i><span class="menu-title">จัดการหมวดหมู่</span></a>
